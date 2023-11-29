@@ -1,4 +1,4 @@
 Name,State
-"Smith, Peter",TN
-"Jones, Malcom",MN
-"Herman, PeeWee",CA
+Smith,TN
+Jones,MN
+Herman,CA
