@@ -1,4 +1,4 @@
-time,﻿sla.name,App ID,VP,SVP,Availability
+time,﻿sla.name,u_app_id,VP,SVP,Availability
 2024-02-06 17:00:00,OLA-Alight-1358,1358,Chris Compton,Andre Viljoen,0.999
 2023-11-26 19:24:43,OLA-CARMa Prod-1907,1907,Steve Ginal,Andre Viljoen,0.991
 2024-02-06 17:00:02,OLA-GHS Provider Portal-IA Prod -1085,1085,Frank Mason,Wajhi Ahmed,0.991
