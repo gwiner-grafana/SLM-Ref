@@ -1,28 +1,28 @@
-﻿sla.name,business_percentage,,,,,,
-OLA-Clinician-5,0.923,,,,,,
-OLA-Alight-1358,0.3183,,,,,,
-OLA-Alight-1358,0.0864,,,,,,
-OLA-Alight-1358,0.8966,,,,,,
-OLA-Alight-1358,0.0864,,,,,,
-OLA-Alight-1358,0.3191,,,,,,
-OLA-Alight-1358,0.6663,,,,,,
-OLA-Alight-1358,0.2261,,,,,,
-OLA-Alight-1358,0.6659,,,,,,
-OLA-Alight-1358,0.3067,,,,,,
-OLA-Alight-1358,0.2766,,,,,,
-OLA-Alight-1358,36.9664,,,,,,
-OLA-Alight-1358,1.0116,,,,,,
-OLA-Alight-1358,1.245,,,,,,
-OLA-Alight-1358,1.1539,,,,,,
-OLA-Alight-1358,5.6671,,,,,,
-OLA-CARMa Prod-1907,0.1299,,,,,,
-OLA-CARMa Prod-1907,0.2704,,,,,,
-OLA-GHS Provider Portal-IA Prod -1085,0.1091,,,,,,
-OLA-GHS Provider Portal-IA Prod -1085,0.8506,,,,,,
-OLA-NJSUL-WEB Prod -1897,0.902,,,,,,
-OLA-NJSUL-WEB Prod -1897,0.1128,,,,,,
-OLA-Practice Focus Prod-1863,0.0066,,,,,,
-OLA-Practice Focus Prod-1863,0.6564,,,,,,
-OLA-Practice Focus Prod-1863,0.0872,,,,,,
-OLA-Practice Focus Prod-1863,0.0065,,,,,,
-OLA-Practice Focus Prod-1863,0.0403,,,,,,
+﻿sla.name,business_percentage
+OLA-Clinician-5,0.923
+OLA-Alight-1358,0.3183
+OLA-Alight-1358,0.0864
+OLA-Alight-1358,0.8966
+OLA-Alight-1358,0.0864
+OLA-Alight-1358,0.3191
+OLA-Alight-1358,0.6663
+OLA-Alight-1358,0.2261
+OLA-Alight-1358,0.6659
+OLA-Alight-1358,0.3067
+OLA-Alight-1358,0.2766
+OLA-Alight-1358,36.9664
+OLA-Alight-1358,1.0116
+OLA-Alight-1358,1.245
+OLA-Alight-1358,1.1539
+OLA-Alight-1358,5.6671
+OLA-CARMa Prod-1907,0.1299
+OLA-CARMa Prod-1907,0.2704
+OLA-GHS Provider Portal-IA Prod -1085,0.1091
+OLA-GHS Provider Portal-IA Prod -1085,0.8506
+OLA-NJSUL-WEB Prod -1897,0.902
+OLA-NJSUL-WEB Prod -1897,0.1128
+OLA-Practice Focus Prod-1863,0.0066
+OLA-Practice Focus Prod-1863,0.6564
+OLA-Practice Focus Prod-1863,0.0872
+OLA-Practice Focus Prod-1863,0.0065
+OLA-Practice Focus Prod-1863,0.0403
